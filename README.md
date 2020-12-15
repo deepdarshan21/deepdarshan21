@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   - 🌱 I’m currently learning C++, Python, Android
 -->
 
-<a href="https://twitter.com/deeps_2106"><img src="https://toppng.com/uploads/preview/twitter-icon-transparent-11549680383mmzgiol88v.png" height="50" width="50"/></a> 
+<a href="https://twitter.com/deeps_2106"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> 
 <a href="https://www.linkedin.com/in/hrishikesh-agarwal-794801195/"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a> 
 <a href="https://codetheorem.medium.com/"><img src="https://img.icons8.com/ios-filled/2x/medium-logo.png"/></a> 
 
