@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning C++, Python, Android
+<div>
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajraman786&show_icons=true&title_color=00a6ff&icon_color=ffbb00&text_color=000000&bg_color=ffffff" alt="Pramod's Github Stats" width="450px">
+  </p>
+</div>
