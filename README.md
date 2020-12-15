@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--
   - 🌱 I’m currently learning C++, Python, Android
 -->
-## Reach out to me with
+## 📫 How to reach me
 
 <a href="https://twitter.com/deeps_2106"><img src="https://img.icons8.com/fluent/100/000000/twitter.png"/></a> 
 <a href="https://www.linkedin.com/in/deepdarshan-65673319a/"><img src="https://img.icons8.com/fluent/100/000000/linkedin.png"/></a> 
