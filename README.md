@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 <a href="https://www.codechef.com/users/deepdarshan21"><img src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" height="80" width="80"/></a> 
 <a href="https://www.qwiklabs.com/public_profiles/d071a887-e63b-4829-9a87-fa1ce94b1bdb"><img src="https://media-exp1.licdn.com/dms/image/C510BAQFR04KgVWnd3w/company-logo_200_200/0/1519878429204?e=2159024400&v=beta&t=rRpPH2ImnUTfFnFEEO9shQboKWONZ_nTyoZ_YbSH-YY" height="80" width="80"/></a> 
 
+## 🌱 I’m currently learning
+
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  <img src="https://img.icons8.com/color/48/000000/python.png"/>  <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>  <img src="https://img.icons8.com/color/48/000000/android-os.png"/>  <img src="https://img.icons8.com/color/48/000000/linux.png"/>
 
 <div>
   <p align="center">
