@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--
   - 🌱 I’m currently learning C++, Python, Android
 -->
-
-<a href="https://twitter.com/deeps_2106"><img src="https://img.icons8.com/fluent/144/000000/twitter.png"/></a> 
-<a href="https://www.linkedin.com/in/deepdarshan-65673319a/"><img src="https://img.icons8.com/fluent/144/000000/linkedin.png"/></a> 
-<a href="mailto:deepdarshan21@gmail.com"><img src="https://img.icons8.com/color/144/000000/gmail--v2.png"/></a> 
-<a href="https://t.me/deeps_2106"><img src="https://img.icons8.com/color/144/000000/telegram-app--v2.png"/></a> 
+##Reach out to me with
+<a href="https://twitter.com/deeps_2106"><img src="https://img.icons8.com/fluent/100/000000/twitter.png"/></a> 
+<a href="https://www.linkedin.com/in/deepdarshan-65673319a/"><img src="https://img.icons8.com/fluent/100/000000/linkedin.png"/></a> 
+<a href="mailto:deepdarshan21@gmail.com"><img src="https://img.icons8.com/color/100/000000/gmail--v2.png"/></a> 
+<a href="https://t.me/deeps_2106"><img src="https://img.icons8.com/color/100/000000/telegram-app--v2.png"/></a> 
 
 <div>
   <p align="center">
