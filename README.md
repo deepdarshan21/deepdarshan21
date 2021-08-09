@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/deeps_2106"><img src="https://img.icons8.com/fluent/100/000000/twitter.png"/></a> 
 <a href="https://www.linkedin.com/in/deepdarshan-65673319a/"><img src="https://img.icons8.com/fluent/100/000000/linkedin.png"/></a> 
-<a href="mailto:deepdarshan21@gmail.com"><img src="https://img.icons8.com/color/100/000000/gmail--v2.png"/></a> 
+<a href="mailto:deepdarshan21@gmail.com"><img src="https://img.icons8.com/color/100/000000/gmail-new.png"/></a> 
 <a href="https://t.me/deeps_2106"><img src="https://img.icons8.com/color/100/000000/telegram-app--v2.png"/></a> 
 
 ## Profiles
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning
 
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  <img src="https://img.icons8.com/color/48/000000/python.png"/>  <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>  <img src="https://img.icons8.com/color/48/000000/git.png"/>  <img src="https://img.icons8.com/color/48/000000/android-os.png"/>  <img src="https://img.icons8.com/color/48/000000/linux.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  <img src="https://img.icons8.com/color/48/000000/python.png"/>  <img src="https://img.icons8.com/color/48/000000/git.png"/>  <img src="https://img.icons8.com/color/48/000000/linux.png"/>
 
 
 
