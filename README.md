@@ -1,5 +1,5 @@
 # Hi there, I'm Deepdarshan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-A third year BTech(CSE) student from SMVDU, who is very passionate know and learn about new Technology and Inventions.  
+A second year BTech(CSE) student from SMVDU, who is very passionate know and learn about new Technology and Inventions.  
 I am currently learning Web Development(MERN Stack) and Data Structures & Algorithms.
 
 <!--
