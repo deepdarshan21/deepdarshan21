@@ -1,5 +1,5 @@
 # Hi there, I'm Deepdarshan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-
+A third year BTech(CSE) student from SMVDU, who is very passionate know and learn about new Technology and Inventions.
 
 <!--
 **deepdarshan21/deepdarshan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 -->
 ## 📫 How to reach me
 
-<a href="https://twitter.com/deeps_2106"><img src="https://img.icons8.com/fluent/100/000000/twitter.png"/></a> 
-<a href="https://www.linkedin.com/in/deepdarshan-65673319a/"><img src="https://img.icons8.com/fluent/100/000000/linkedin.png"/></a> 
-<a href="mailto:deepdarshan21@gmail.com"><img src="https://img.icons8.com/color/100/000000/gmail-new.png"/></a> 
-<a href="https://t.me/deeps_2106"><img src="https://img.icons8.com/color/100/000000/telegram-app--v2.png"/></a> 
+<a href="https://twitter.com/deeps_2106"><img src="https://img.icons8.com/fluent/80/twitter.png"/></a> 
+<a href="https://www.linkedin.com/in/deepdarshan-65673319a/"><img src="https://img.icons8.com/fluent/80/linkedin.png"/></a> 
+<a href="mailto:deepdarshan21@gmail.com"><img src="https://img.icons8.com/color/80/gmail-new.png"/></a> 
+<a href="https://t.me/deeps_2106"><img src="https://img.icons8.com/color/80/telegram-app--v2.png"/></a> 
 
 ## Profiles
 
 <a href="https://www.hackerrank.com/deepdarshan21"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="80" width="80"/></a> 
 <a href="https://www.codechef.com/users/deepdarshan21"><img src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" height="80" width="80"/></a> 
-<a href="https://www.qwiklabs.com/public_profiles/d071a887-e63b-4829-9a87-fa1ce94b1bdb"><img src="https://media-exp1.licdn.com/dms/image/C510BAQFR04KgVWnd3w/company-logo_200_200/0/1519878429204?e=2159024400&v=beta&t=rRpPH2ImnUTfFnFEEO9shQboKWONZ_nTyoZ_YbSH-YY" height="80" width="80"/></a> 
+<a href="https://www.qwiklabs.com/public_profiles/d071a887-e63b-4829-9a87-fa1ce94b1bdb"><img src="https://media-exp1.licdn.com/dms/image/C510BAQFR04KgVWnd3w/company-logo_200_200/0/1519878429204?e=2159024400&v=beta&t=rRpPH2ImnUTfFnFEEO9shQboKWONZ_nTyoZ_YbSH-YY" height="" width="80"/></a> 
 
 ## 🌱 I’m currently learning
 
