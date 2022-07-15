@@ -3,6 +3,13 @@
 #### Glad to see you here! 🤩
 A final year(Senior) BTech(CSE) student from SMVDU, who is very passionate know and learn about new Technology and Inventions. My interest in computers arrise for a class of MS Word in my school back in 2010. I'm currently learning Web Development(Full Stack) and Data Structures & Algorithms, and looking for SDE opportunities.
 
+<br/>
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=deepdarshan21">
+</a>
+<a href="https://github.com/deepdarshan21?tab=followers"><img src="https://img.shields.io/github/followers/deepdarshan21?label=Followers&style=social" alt="GitHub Badge"></a>
+
 <hr>
 
 ### Some things I like to do
@@ -61,6 +68,8 @@ A final year(Senior) BTech(CSE) student from SMVDU, who is very passionate know 
 <a href="https://www.linkedin.com/in/deepdarshan-65673319a/"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/> </a>
 <a href="https://medium.com/@deepdarshan"> <img src="https://img.icons8.com/bubbles/64/000000/medium-new.png"/> </a>
 <a href="https://www.codechef.com/users/deepdarshan21"> <img src="https://img.icons8.com/bubbles/64/000000/codechef.png"/> </a> 
+<a href="https://leetcode.com/deepdarshan21/"> <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/64/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-green-tal-revivo.png" /> </a> 
+<a href="https://auth.geeksforgeeks.org/user/deepdarshan21/profile"> <img src="https://img.icons8.com/color/64/000000/GeeksforGeeks.png"/> </a> 
 
 <hr>
 
