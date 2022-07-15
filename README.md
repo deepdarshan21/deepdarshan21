@@ -76,9 +76,10 @@ A final year(Senior) BTech(CSE) student from SMVDU, who is very passionate know 
 ## 📊 My Github Stats
 
   <br/>
+  <p align="center">
     <a href="https://github.com/deepdarshan21/github-readme-stats"><img alt="Deepdarshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deepdarshan21&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="200px" width="400" /></a>
     <a href="https://github.com/deepdarshan21/github-readme-stats"><img alt="Deepdarshan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepdarshan21&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="200px" width="400" /></a>
- 
+  </p>
   <br/>
   
 
