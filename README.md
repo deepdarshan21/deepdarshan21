@@ -1,6 +1,87 @@
-# Hi there, I'm Deepdarshan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-A second year BTech(CSE) student from SMVDU, who is very passionate know and learn about new Technology and Inventions.  
-I am currently learning Web Development(MERN Stack) and Data Structures & Algorithms.
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Deepdarshan....;Full+Stack+Developer;Competitive+Programmer;Positive+Thinker!&center=false&size=32">
+
+#### Glad to see you here! 🤩
+A final year(Senior) BTech(CSE) student from SMVDU, who is very passionate know and learn about new Technology and Inventions. My interest in computers arrise for a class of MS Word in my school back in 2010. I'm currently learning Web Development(Full Stack) and Data Structures & Algorithms, and looking for SDE opportunities.
+
+<hr>
+
+### Some things I like to do
+* Development, my love with development is like childs love with her mother. Currently, I'm exploring and learning things like Reactjs, Nextjs, Web3 and many more.
+* Competitive Programming, I love solving problems related to DSA at it increases my thinking and optimization technique as a Software Developer. My handle ``deepdarshan21`` is present at all the major CP sites .
+* Apart from Computer Science I love to play Cricket, do traking🚵‍♂️ and romming around with friends.
+
+<hr>
+
+## 🙋‍♂️ About Me
+
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- - 💬 Ask me about **Development, Data Structures & Algorithms.**
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+-  📄 Know about my experiences [https://bit.ly/3aFw5vA](https://bit.ly/3aFw5vA)
+<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://kanikap.netlify.app/)** -->
+- 📫 How to reach me **deepdarshan21@gmail.com**
+- ⚡ Fun fact **I llove to play like shild with tech gadgets**
+
+<hr>
+
+## 🚀 Thing I use on daily basis:
+
+<p align="left"> 
+    <a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <!-- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <!-- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> -->
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <!-- <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>  -->
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png"/> </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/deepdarshan21/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Deepdarshan's Gola's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deepdarshan21&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<hr>
+
+## 📫 Checkout My:
+
+<a href="https://twitter.com/deeps_2106"> <img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/> </a> 
+<a href="https://www.linkedin.com/in/deepdarshan-65673319a/"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/> </a>
+<a href="https://medium.com/@deepdarshan"> <img src="https://img.icons8.com/bubbles/64/000000/medium-new.png"/> </a>
+<a href="https://www.codechef.com/users/deepdarshan21"> <img src="https://img.icons8.com/bubbles/64/000000/codechef.png"/> </a> 
+
+<hr>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/deepdarshan21/github-readme-stats"><img alt="Deepdarshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deepdarshan21&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/deepdarshan21/github-readme-stats"><img alt="Deepdarshan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepdarshan21&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/deepdarshan21/github-readme-activity-graph"><img alt="Deepdarshan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deepdarshan21&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+
+
+
 
 <!--
 **deepdarshan21/deepdarshan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,27 +100,3 @@ Here are some ideas to get you started:
 <!--
   - 🌱 I’m currently learning C++, Python, Android
 -->
-## 📫 How to reach me
-
-<a href="https://twitter.com/deeps_2106"><img src="https://img.icons8.com/fluent/80/twitter.png"/></a> 
-<a href="https://www.linkedin.com/in/deepdarshan-65673319a/"><img src="https://img.icons8.com/fluent/80/linkedin.png"/></a> 
-<a href="mailto:deepdarshan21@gmail.com"><img src="https://img.icons8.com/color/80/gmail-new.png"/></a> 
-<a href="https://t.me/deeps_2106"><img src="https://img.icons8.com/color/80/telegram-app--v2.png"/></a> 
-
-## 👨‍🏫 Profiles
-
-<a href="https://www.hackerrank.com/deepdarshan21"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="60" width="60"/></a> 
-<a href="https://www.codechef.com/users/deepdarshan21"><img src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" height="60" width="60"/></a> 
-<a href="https://www.qwiklabs.com/public_profiles/d071a887-e63b-4829-9a87-fa1ce94b1bdb"><img src="https://media-exp1.licdn.com/dms/image/C510BAQFR04KgVWnd3w/company-logo_200_200/0/1519878429204?e=2159024400&v=beta&t=rRpPH2ImnUTfFnFEEO9shQboKWONZ_nTyoZ_YbSH-YY" height="60" width="60"/></a> 
-
-## 🌱 I’m currently learning
-
-<img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>  <img src="https://img.icons8.com/color/40/000000/javascript.png"/>  <img src="https://img.icons8.com/color/40/000000/nodejs.png"/>  <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png"/>  <img src="https://img.icons8.com/color/40/000000/python.png"/>  <img src="https://img.icons8.com/color/40/000000/git.png"/>  <img src="https://img.icons8.com/color/40/000000/linux.png"/>
-
-
-## GitHub Status
-<div>
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepdarshan21&show_icons=true&title_color=00a6ff&icon_color=ffbb00&text_color=000000&bg_color=ffffff" alt="Pramod's Github Stats" width="450px">
-  </p>
-</div>
