@@ -26,7 +26,7 @@ A final year(Senior) BTech(CSE) student from SMVDU, who is very passionate know 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📄 Know about my experiences [https://bit.ly/3aFw5vA](https://bit.ly/3aFw5vA)
 - 📫 How to reach me **deepdarshan21@gmail.com**
-- ⚡ Fun fact **I llove to play like shild with tech gadgets**
+- ⚡ Fun fact, **I love to play like child when it comes to tech gadgets**
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://kanikap.netlify.app/)** -->
 
 <hr>
