@@ -64,8 +64,8 @@ A final year(Senior) BTech(CSE) student from SMVDU, who is very passionate know 
 
 ## 📫 Checkout My:
 
-<a href="https://twitter.com/deeps_2106"> <img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/> </a> 
-<a href="https://www.linkedin.com/in/deepdarshan-65673319a/"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/> </a>
+<a href="https://twitter.com/deepdarshan21"> <img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/> </a> 
+<a href="https://www.linkedin.com/in/deepdarshan21/"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/> </a>
 <a href="https://medium.com/@deepdarshan21"> <img src="https://img.icons8.com/bubbles/64/000000/medium-new.png"/> </a>
 <a href="https://www.codechef.com/users/deepdarshan21"> <img src="https://img.icons8.com/bubbles/64/000000/codechef.png"/> </a> 
 <a href="https://leetcode.com/deepdarshan21/"> <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/64/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-green-tal-revivo.png" /> </a> 
